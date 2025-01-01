@@ -23,3 +23,4 @@ Improve performance
 Improve performance
 Polish UI layout
 Change theme color
+Fix bug in feature X
