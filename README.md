@@ -26,3 +26,4 @@ Change theme color
 Fix bug in feature X
 Update dependencies
 Polish UI layout
+Remove unused imports
