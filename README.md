@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Rewrite function Y
 Tweak margin and padding
 Improve error handling
+Improve performance
